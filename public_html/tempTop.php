@@ -54,18 +54,13 @@
 
 	</HEAD>
 	<BODY >
-		<?php
-		if($path=="index")
-		Slide();
-		?>
+
 <!--		<img src= http://x96229u3.beget.tech/pic/nick.png usemap="#myMap" margin-left="0">
 			<map name="myMap" >
 				<area shape="rect" coords="111,37,569,123" href="">
 				<area shape="rect" coords="8,35,113,122" href="https://www.youtube.com/channel/UCbBSvZ-byJ64fPTKmpR7YuQ"/>
 			</map>
 -->
-
-
 <nav class="navbar navbar-default navbar-static-top">
 	<div class="container-fluid">
 		<div class="navbar-header">

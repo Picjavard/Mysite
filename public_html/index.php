@@ -1,7 +1,14 @@
 <?php include('tempTop.php');?>
-
-				<div class="col-md-9">
-
+			<div class="row">
+				<div class="col-md-12">
+					<?php
+					if($path=="index")
+						Slide();
+					?>
+				</div>
+			</div>
+			<div class="col-md-9">
+				
 					<?php
 					$Link = mysqli_connect("localhost", "x96229u3_userdat", "andorra1996", "x96229u3_userdat");
 					if(!$Link)

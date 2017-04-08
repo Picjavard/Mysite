@@ -1,5 +1,5 @@
 <?php include('tempTop.php');?>
-<div class="col-md-9">
+<div class="col-md-9 cagalog">
 
 
 <div class="row">
