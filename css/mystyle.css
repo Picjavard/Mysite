@@ -1,0 +1,58 @@
+.img-rounded {
+  width: 230px;
+  margin: 0;
+
+}
+.navbar-brand{
+  margin-right: 20px;
+  padding: 3px;
+}
+body {
+    background-color: #fff;
+    color: #555 !important;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    line-height: 1.42857;
+}
+.avatar{
+}
+.avatar >img{
+  margin-left:10%;
+  width:80%;
+}
+.item {
+  height: 20em !important;
+  text-align: left;
+}
+.item > img {
+  width: 100% !important;
+}
+
+.info {
+  position:fixed;
+  bottom:0px;
+  right:20px;
+  display:block;
+  text-align:right;
+}
+h1{
+  font-size: 24px !important;
+}
+h2{
+  font-size: 22px !important;
+}
+.well{
+  height: 100%;
+}
+
+
+::-webkit-scrollbar {
+
+width: 0px !important;
+
+}
+::-moz-scrollbar {
+
+width: 0px !important;
+
+}

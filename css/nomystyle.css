@@ -1,0 +1,47 @@
+body {
+ font: 11pt Arial, Helvetica, sans-serif; /* Рубленый шрифт текста */
+ margin: 0; /* Отступы на странице */
+ background-color: #ddd;
+}
+h1 {
+ font-size: 36px; /* Размер шрифта */
+ margin: 0; /* Убираем отступы */
+ color: #fc0; /* Цвет текста */
+}
+h2 {
+ margin-top: 0; /* Убираем отступ сверху */
+}
+#header { /* Верхний блок */
+ background: #0080c0; /* Цвет фона */
+ padding: 10px; /* Поля вокруг текста */
+}
+#sidebar { /* Левая колонка */ /* Обтекание справа */
+ border: 1px solid #333; /* Параметры рамки вокруг */
+
+ padding: 5px; /* Поля вокруг текста */
+ margin: 10px 10px 20px 5px; /* Значения отступов */
+ background-color:#eee ;
+}
+#news {
+
+  border: 1px solid #333; /* Параметры рамки вокруг */
+  width: 20%; /* Ширина колонки */
+  padding: 5px; /* Поля вокруг текста */
+  margin: 10px 10px 20px 5px; /* Значения отступов */
+  background-color:#eee ;
+}
+#content { /* Правая колонка */
+ margin: 10px 5px 20px 25%; /* Значения отступов */
+ padding: 5px; /* Поля вокруг текста */
+ border: 1px solid #333; /* Параметры рамки */
+ background-color:#eee ;
+}
+#footer {
+ position: fixed; /* Фиксированное положение */
+ left: 0; bottom: 0; /* Левый нижний угол */
+ padding: 10px; /* Поля вокруг текста */
+ background: #0080c0; /* Цвет фона */
+ color: #fff; /* Цвет текста */
+ width: 100%; /* Ширина слоя */
+}
+</style>
